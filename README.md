@@ -8,15 +8,14 @@ Además, es necesario tener instalado en el sistema los programas mpg123 y sox.
 Para ello inserta en el terminal:<br>
 sudo apt-get install mpg123 sox
 
-Ahora sólo tienes que escribir nmp start en la carpeta en la que se instaló Voiceover.<br>
+Ahora sólo tienes que escribir npm start en la carpeta en la que se instaló Voiceover.<br>
 
 Puedes elegir varias opciones en la terminal:<br>
 1. Grabar un audio que quedará almacenado en un archivo .wav, además puedes ver en la base de datos su transcripción automática.<br>
 2. Escribir un texto por terminal, que leerá de forma automática el PC.<br>
-3. Interactuar con la versión HTML del proyecto.<br>
-4. Consultar en la base de datos los archivos de audio grabados y escuchar el que se desee, introduciendo el dígito de orden que hay a la izquierda.<br>
-5. Consultar los logs escritos, tanto con las transcripciones de audio, como con los textos introducidos en el terminal.<br>
-6. Salir del programa.<br>
+3. Consultar en la base de datos los archivos de audio grabados y escuchar el que se desee, introduciendo el dígito de orden que hay a la izquierda.<br>
+4. Consultar los logs escritos, tanto con las transcripciones de audio, como con los textos introducidos en el terminal.<br>
+5. Salir del programa.<br>
 
 
 Dependencias:<br>
