@@ -1,0 +1,18 @@
+{
+  "name": "voiceover",
+  "version": "1.0.0",
+  "description": "Lectura y transcripcion de textos",
+  "main": "voiceover.js",
+  "scripts": {
+    "install": "npm install"
+  },
+  "author": "Carlos Blanco",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "google-tts-api": "^2.0.2",
+    "node-audiorecorder": "^3.0.0",
+    "readline": "^1.3.0",
+    "util": "^0.12.5",
+    "vosk": "^0.3.39"
+  },
+}
